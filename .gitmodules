@@ -1,0 +1,3 @@
+[submodule "public/documentacion_curso"]
+	path = public/documentacion_curso
+	url = https://github.com/carlosDevf/documentacion_curso.git
